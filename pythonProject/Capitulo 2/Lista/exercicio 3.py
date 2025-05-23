@@ -3,7 +3,7 @@ raio = float(input("digite o valor do raio: "))
 pi = 3.14159
 diametro = 2 * raio
 circunferencia = 2
-area = pi * (raio ** 20
+area = pi * (raio ** 2)
 
 
 print("O diametro é: ", diametro)
