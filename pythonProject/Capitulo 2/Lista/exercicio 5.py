@@ -1,4 +1,4 @@
-km = float(input("Quantos kilometro você percore por mês? "))
+km = float(input("Quantos kilometro você percore por ano? "))
 emissao = 0.12
 
 total = km * emissao
