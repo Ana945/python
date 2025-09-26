@@ -1,6 +1,6 @@
 def valorNegativo(numero):
-    res= numero * numero
-    print(res)
+    if(numero > 0):
+        print(f"O quadrado do numero é: {numero * numero}")
 
 numero = int(input("Digite um numero: "))
 

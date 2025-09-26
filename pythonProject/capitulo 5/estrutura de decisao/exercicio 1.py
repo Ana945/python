@@ -5,6 +5,6 @@ def validaIdade(idade):
     else:
         print("Você é menor idade ")
 
-idade = int(input("Digite a sua idade"))
+idade = int(input("Digite a sua idade: "))
 
 validaIdade(idade)

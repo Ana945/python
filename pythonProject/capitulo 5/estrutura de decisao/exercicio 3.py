@@ -18,3 +18,6 @@ v2 = int(input("insira um valor: "))
 v3 = int(input("insira um valor: "))
 
 numeroMaior(v1, v2, v3)
+
+#nome:int(input('digite seu nome'))
+#print(nome: {nome}, idade: {idade}, tamanho: {tamanho.2f})
